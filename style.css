@@ -1,3 +1,15 @@
 .color{
   background-color: lightblue;
 }
+.margin-bottom{
+  margin-bottom: 30px;
+}
+.color-2{
+  background-color: blue;
+  color: white;
+}
+.color-3{
+  background-color: darkblue;
+  color:#fff;
+  text-align: center;
+}
