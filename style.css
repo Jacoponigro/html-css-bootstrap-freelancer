@@ -1,6 +1,4 @@
-.color{
-  background-color: lightblue;
-}
+
 .margin-bottom{
   margin-bottom: 30px;
 }
@@ -18,4 +16,7 @@
 }
 .colo4{
   background-color: red;
+}
+.cover{
+  background-color: lightblue;
 }
