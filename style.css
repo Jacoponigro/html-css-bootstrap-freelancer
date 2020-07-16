@@ -28,6 +28,10 @@ strong{
 span{
   color:white;
 }
+.fixed{
+  position: fixed;
+  width: 100%;
+}
 .center{
   text-align: center;
   color: #fff;
@@ -110,7 +114,9 @@ i{
   text-align: center;
 }
 .relative{
+  margin-top: 30px;
   position: relative;
+  height:400px;
 }
 #avatar{
   position: absolute;
